@@ -11,3 +11,6 @@ Formulário dividido para o usuário preencher seguindo um passo a passo. Esse t
 <li>CSS</li>
 <li>JAVASCRIPT</li>
 </ul>
+
+### Link para visualização 
+https://multi-step-form-1znb2eolb-tiago-so.vercel.app/
